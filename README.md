@@ -1,21 +1,41 @@
-<h1 align="center">Hi 👋, I'm Mohammed Faseeh uddin</h1>
-<h3 align="center">Computer Science Engineer (4th year)</h3>
+# Hi 👋, I'm Mohammed Faseeh Uddin
 
-- 🔭 I’m currently working on **AI ML chatbots**
+**MSc Data Science student @ University of Regensburg, Germany**
+B.E. in Computer Science Engineering · Data Science & AI intern at DataMites
 
-- 🌱 I’m currently learning **AI and ML algorithms**
+🎯 **Looking for:** Working student / internship in Data Analytics, Machine Learning, AI, or Software Development, in Regensburg, Munich, or Erlangen. **Available from December.**
 
-- 👨‍💻 All of my projects are available at [github](github)
+---
 
-- 💬 Ask me about **ML algorithms and DL concepts**
+## 🛠️ Skills
 
-- 📫 How to reach me **mohammedfaseeh2733@gmail.com**
+| Area | Tools |
+|---|---|
+| Languages | Python, SQL |
+| Data & BI | Pandas, NumPy, Power BI, Matplotlib, Seaborn |
+| Machine Learning | scikit-learn, XGBoost, LightGBM |
+| Deep Learning | TensorFlow, Keras (CNNs, transfer learning) |
+| Tools | Git, GitHub, Jupyter Notebook |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammad faseeh uddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad faseeh uddin" height="30" width="40" /></a>
-<a href="https://instagram.com/fasamx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fasamx" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🚀 Featured Projects
+
+| Project | What it does | Result |
+|---|---|---|
+| [Employee Performance Analysis](https://github.com/faseeh184/employee-performance-analysis) | HR analytics: drivers of performance + prediction model | 93.3% accuracy |
+| [Bike Rental Demand Prediction](https://github.com/faseeh184/bike-rental-demand-prediction) | Hourly demand regression, 6 models compared | R² 0.951 |
+| [Flight Price Prediction](https://github.com/faseeh184/flight-price-prediction) | Fare prediction, 11 models compared and tuned | R² 0.858 |
+| [Traffic Sign Recognition](https://github.com/faseeh184/traffic-sign-recognition-cnn) | CNN classifying 43 sign types | 97.9% accuracy |
+| [Heart Disease Prediction](https://github.com/faseeh184/heart-disease-prediction) | Clinical classification (team project) | 84% accuracy, up to 0.97 recall |
+| [Handwritten Digit Recognition](https://github.com/faseeh184/handwritten-digit-recognition) | MNIST: classical ML vs neural networks | 97.9% accuracy |
+
+---
+
+## 🌱 Currently
+- Master's in Data Science at the University of Regensburg
+- Building more projects with SQL and Power BI
+
+## 📫 Get in touch
+- 📧 [mohammedfaseeh2733@gmail.com](mailto:mohammedfaseeh2733@gmail.com)
+- 💼 [LinkedIn](https:www.linkedin.com/in/faseeh-uddin-mohammed-a0455823b)

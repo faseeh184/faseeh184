@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Faseehuddin</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Faseeh uddin</h1>
 <h3 align="center">Computer Science Engineer (4th year)</h3>
 
 - 🔭 I’m currently working on **AI ML chatbots**

@@ -38,4 +38,4 @@ B.E. in Computer Science Engineering · Data Science & AI intern at DataMites
 
 ## 📫 Get in touch
 - 📧 [mohammedfaseeh2733@gmail.com](mailto:mohammedfaseeh2733@gmail.com)
-- 💼 [LinkedIn](https:www.linkedin.com/in/faseeh-uddin-mohammed-a0455823b)
+- 💼 [LinkedIn](https://www.linkedin.com/in/faseeh-uddin-mohammed-a0455823b)

@@ -3,7 +3,7 @@
 **MSc Data Science student @ University of Regensburg, Germany**
 B.E. in Computer Science Engineering · Data Science & AI intern at DataMites
 
-🎯 **Looking for:** Working student / internship in Data Analytics, Machine Learning, AI, or Software Development, in Regensburg, Munich, or Erlangen. **Available from December.**
+🎯 **Looking for:** Working student / internship in Data Analytics, Machine Learning, AI, or Software Development, in Regensburg, Munich, or Erlangen. **Available from November.**
 
 ---
 
